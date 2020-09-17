@@ -8,6 +8,5 @@ echo Wake up $(whoami)
 echo The Matrix has you...
 echo Your UID = $UID
 ps aux > processes.txt
-grep $UID processes.txt > processes.txt
 
 read

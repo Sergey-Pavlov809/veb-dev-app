@@ -1,1 +1,4 @@
-myprocesses.txt
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+    18296   19228   18296       3080  pty0      197609 01:41:47 /usr/bin/ps
+    19228    1952   19228       9228  pty0      197609 01:25:50 /usr/bin/bash
+     1952       1    1952       1952  ?         197609 01:25:50 /usr/bin/mintty
